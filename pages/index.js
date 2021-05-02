@@ -19,6 +19,13 @@ export default function IndexPage() {
           </Link>
           </a>
         </li>
+        <li>
+          <a>
+          <Link href="/newpage1">
+            <a>New Page 1</a>
+          </Link>
+          </a>
+        </li>
       </ul>
     </div>
   )
